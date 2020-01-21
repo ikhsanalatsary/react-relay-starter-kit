@@ -30,7 +30,7 @@
     "react-router": "^2.4.0",
     "react-router-relay": "^0.13.2",
     "sync-request": "^2.0.1",
-    "webpack": "1.13.0",
+    "webpack": "2.2.0",
     "webpack-dev-server": "1.14.1"
   },
   "devDependencies": {
