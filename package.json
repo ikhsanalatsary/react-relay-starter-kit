@@ -18,7 +18,7 @@
     "babel-relay-plugin": "0.8.1",
     "classnames": "2.2.4",
     "express": "^4.13.4",
-    "graphiql": "^0.7.2",
+    "graphiql": "^0.11.11",
     "graphql": "^0.6.0",
     "graphql-relay": "^0.4.2",
     "isomorphic-fetch": "^2.2.1",
